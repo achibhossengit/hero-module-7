@@ -54,3 +54,35 @@ header nav{
     font-weight: 400px;
     font-size: 24px;
 }
+
+
+/* vision styles */
+.vision-card-container{
+    display: flex;
+    gap: 24px;
+}
+.vision-card{
+    padding: 32px;
+    border-radius: 16px;
+    border: none;
+}
+.card-btn{
+    padding: 11px 20px;
+    border-radius: 8px;
+    border: none;
+    color: white;
+}
+.quation-container{
+    margin-top: 32px;
+    background-image: url(assets/quote-bg.png);
+    background-position: 24px 25px;
+    background-repeat: no-repeat;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+
+}
+.quation{
+    padding: 48px 24px;
+}
+
